@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/quizpagetwo/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/quizpagetwo/static/js/main.b5d3c750.chunk.js",
+    "main.js.map": "/quizpagetwo/static/js/main.b5d3c750.chunk.js.map",
+    "runtime-main.js": "/quizpagetwo/static/js/runtime-main.f0e0d2d0.js",
+    "runtime-main.js.map": "/quizpagetwo/static/js/runtime-main.f0e0d2d0.js.map",
+    "static/js/2.6a76d9ca.chunk.js": "/quizpagetwo/static/js/2.6a76d9ca.chunk.js",
+    "static/js/2.6a76d9ca.chunk.js.map": "/quizpagetwo/static/js/2.6a76d9ca.chunk.js.map",
+    "static/js/3.5f5dc91d.chunk.js": "/quizpagetwo/static/js/3.5f5dc91d.chunk.js",
+    "static/js/3.5f5dc91d.chunk.js.map": "/quizpagetwo/static/js/3.5f5dc91d.chunk.js.map",
+    "index.html": "/quizpagetwo/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/quizpagetwo/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.6a76d9ca.chunk.js.LICENSE.txt": "/quizpagetwo/static/js/2.6a76d9ca.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/quizpagetwo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0e0d2d0.js",
+    "static/js/2.6a76d9ca.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.b5d3c750.chunk.js"
+  ]
+}
